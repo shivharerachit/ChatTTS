@@ -6,3 +6,16 @@ vector_quantize_pytorch
 transformers~=4.41.1
 vocos
 IPython
+
+Flask==3.0.3
+Flask-Cors==4.0.1
+flask-restx==1.3.0
+jsonschema==4.22.0
+jsonschema-specifications==2023.12.1
+requests==2.32.2
+requests-oauthlib==2.0.0
+aiofiles==23.2.1
+python-dateutil==2.9.0.post0
+python-dotenv==1.0.1
+python-multipart==0.0.9
+pytest==7.4.0
